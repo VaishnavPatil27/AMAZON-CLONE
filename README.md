@@ -9,4 +9,4 @@ Footer: Different sections, terms, and services.
 🛠️ Built With
 HTML5: For structuring the web page.
 CSS3: For styling the layout and making it responsive.
-JavaScript: For interactive features like the carousel.
+
